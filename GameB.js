@@ -58,14 +58,14 @@ document.querySelector("#pbtm")
         newHit();
         makeBubble();
      }
-     if(clicked !== random){
+ 
 
  
      
        
 
 
-     }
+     
      
 
 
